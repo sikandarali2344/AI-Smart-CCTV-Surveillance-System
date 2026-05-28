@@ -424,7 +424,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | Platform | Link |
 |----------|------|
 | GitHub Issues | [Report Bug](https://github.com/yourusername/AI-Smart-CCTV/issues) |
-| Email | your.email@example.com |
+| Email |sikandarali@quest.edu.pk|esyforyou4484@gmail.com
 
 ---
 
